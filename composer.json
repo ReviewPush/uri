@@ -39,7 +39,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/reviewpush/ip-utils"
+            "url": "https://github.com/ReviewPush/ip-utils"
         }
     ],
     "require": {
